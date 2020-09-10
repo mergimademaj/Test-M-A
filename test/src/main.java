@@ -5,6 +5,7 @@ public class main {
         assertEquals("I", toRoman(1));
     }
 
+    int 104;
 
 }
 
